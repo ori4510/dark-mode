@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Dark mode</title>
+	<link rel="stylesheet" href="../src/dark-mode.css">
+<style>
+* {margin: 0;padding: 0;}
+.wrap {height: 100vh;display: flex;align-items: center;flex-wrap: wrap;justify-content: center;text-align: center;}
+h1 {width: 100%;}
+.dark_mode {background: #333; color: #bbb;}
+</style>
+</head>
+<body>
+	<header>
+		<div class="theme_mode_switch_wrap">
+			<span class="theme_mode_switch"></span>
+		</div>
+		<p style="float: right;margin-top: 16px;">Dark mode</p>
+	</header>
+	<div class="wrap">
+		<h1>Lorem, ipsum dolor sit amet</h1>
+		<p>Consectetur adipisicing elit. Sed labore voluptates aperiam in. Cumque quam reprehenderit enim sapiente perspiciatis autem accusamus aut architecto rem? Praesentium modi necessitatibus deleniti ad recusandae.</p>
+	</div>
+
+	<script src="../src/dark-mode.js"></script>
+</body>
+</html>
