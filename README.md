@@ -1,6 +1,6 @@
 # Dark and light theme switcher for website
 
-[ReadMe на русском](https://github.com/duron16/dark-mode/blob/master/README_RU.md)
+[ReadMe українською](https://github.com/duron16/dark-mode/blob/master/README_UA.md)
 
 Based on the `localStorage` technology implemented in almost all browsers. Crossbrowser compatibility - IE 11+.
 
