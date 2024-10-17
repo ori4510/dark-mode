@@ -19,4 +19,4 @@
 
 ## Demo
 
-[Дивитися демо](https://duron16.github.io/dark-mode/)
+[Дивитися демо](https://ori4510.github.io/dark-mode/)
