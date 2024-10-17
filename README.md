@@ -21,4 +21,4 @@ If the switch is in the on position, the `<body>` tag will be assigned the class
 
 ## Demo
 
-[See demo](https://duron16.github.io/dark-mode/)
+[See demo](https://ori4510.github.io/dark-mode/)
